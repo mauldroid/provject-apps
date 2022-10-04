@@ -4,9 +4,6 @@ kumpulan aplikasi provisioning MTI
 
 ## 1. L2VPN CONFIG GENERATOR
 
-
-VERSION HISTORY
-
 *************
 V1.0 - 300922
 
