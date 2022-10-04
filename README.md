@@ -1,7 +1,4 @@
 # provject-apps
-kumpulan aplikasi provisioning MTI
-
-
 ## 1. L2VPN CONFIG GENERATOR
 
 *************
