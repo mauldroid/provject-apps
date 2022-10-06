@@ -8,7 +8,7 @@
 - Verify RDID in RR MPLS MTI
 - Input verified technical data to apps
 - Generate result
-- Export generated config (Optional)
+- Export generated config (Optional) 
 
 ## PROJECT TASKLIST
 
