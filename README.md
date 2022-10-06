@@ -7,7 +7,7 @@
 
 
 # 1. L2VPN CONFIG GENERATOR
-^by ulma^
+###### by ulma
 
 ## PROJECT GUIDANCE
 
@@ -58,7 +58,7 @@
 *************
 
 # 2. INITIAL CPE GENERATOR [COMING SOON - ON DEVELOPMENT] :soon:
-^by ulma^
+###### by ulma
 
 ## PROJECT GUIDANCE
 
