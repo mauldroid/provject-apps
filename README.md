@@ -30,4 +30,4 @@
 - fixed empty vlan fill critical bug
 *************
 
-## 2. INITIAL CPE GENERATOR [COMING SOON - ON DEVELOPMENT]
+## 2. INITIAL CPE GENERATOR [COMING SOON - ON DEVELOPMENT] 
