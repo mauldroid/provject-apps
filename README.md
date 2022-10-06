@@ -1,4 +1,11 @@
 # provject-apps
+
+# Project Directory
+1. [L2VPN CONFIG GENERATOR](https://github.com/mauldroid/provject-apps#1-l2vpn-config-generator)
+
+2. [INITIAL CPE GENERATOR](https://github.com/mauldroid/provject-apps#2-initial-cpe-generator-coming-soon---on-development)
+
+
 # 1. L2VPN CONFIG GENERATOR
 
 ## PROJECT GUIDANCE
@@ -12,11 +19,11 @@
 
 ## PROJECT TASKLIST
 
-- [x] Write Project Readme
-- [x] Create GUI
-- [x] Create ASR9K Support
-- [x] Create Huawei Support
-- [ ] Create ZTE Support
+- [x] Write Project Readme :ok:
+- [x] Create GUI :ok:
+- [x] Create ASR9K Support :ok:
+- [x] Create Huawei Support :ok:
+- [ ] Create ZTE Support :soon:
 
 ## RELEASED VERSION
 
@@ -49,4 +56,17 @@
 - fixed empty vlan fill critical bug
 *************
 
-# 2. INITIAL CPE GENERATOR [COMING SOON - ON DEVELOPMENT] 
+# 2. INITIAL CPE GENERATOR [COMING SOON - ON DEVELOPMENT] :soon:
+## PROJECT GUIDANCE
+
+- Coming Soon 
+
+## PROJECT TASKLIST
+
+- [x] Write Project Readme :ok:
+- [ ] Create GUI :soon:
+- [ ] Create MikroTik Support :soon:
+- [ ] Create Huawei Support :soon:
+- [ ] Create ZTE Support :soon:
+
+## RELEASED VERSION
