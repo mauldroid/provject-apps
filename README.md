@@ -16,10 +16,18 @@
 *************
 
 *************
-### :sparkles: V1.2 - 041022 [LATEST RELEASE] :sparkles:
+###  V1.2 - 041022
 
 - increase "nama l2vpn" cap to 26 char
 - add fixed vlan range 1-4094 (experimental)
+*************
+
+*************
+### :sparkles: V1.3 - 061022 [LATEST RELEASE] :sparkles:
+
+- :new: add zte tab placeholder
+- fixed vlan hierarchy
+- fixed empty vlan fill critical bug
 *************
 
 ## 2. INITIAL CPE GENERATOR [COMING SOON - ON DEVELOPMENT]
