@@ -1,5 +1,24 @@
 # provject-apps
-## 1. L2VPN CONFIG GENERATOR
+# 1. L2VPN CONFIG GENERATOR
+
+## PROJECT GUIDANCE
+
+- Collect topology technical data
+- Verify vlan on all path
+- Verify RDID in RR MPLS MTI
+- Input verified technical data to apps
+- Generate result
+- Export generated config (Optional)
+
+## PROJECT TASKLIST
+
+- [x] Write Project Readme
+- [x] Create GUI
+- [x] Create ASR9K Support
+- [x] Create Huawei Support
+- [ ] Create ZTE Support
+
+## RELEASED VERSION
 
 *************
 ### V1.0 - 300922
@@ -30,4 +49,4 @@
 - fixed empty vlan fill critical bug
 *************
 
-## 2. INITIAL CPE GENERATOR [COMING SOON - ON DEVELOPMENT] 
+# 2. INITIAL CPE GENERATOR [COMING SOON - ON DEVELOPMENT] 
