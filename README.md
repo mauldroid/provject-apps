@@ -3,7 +3,7 @@
 # Project Directory
 1. [L2VPN CONFIG GENERATOR](https://github.com/mauldroid/provject-apps#1-l2vpn-config-generator)
 
-2. [INITIAL CPE GENERATOR](https://github.com/mauldroid/provject-apps#2-initial-cpe-generator-coming-soon---on-development)
+2. [INITIAL CPE GENERATOR](https://github.com/mauldroid/provject-apps#2-initial-cpe-generator-coming-soon---on-development-soon)
 
 
 # 1. L2VPN CONFIG GENERATOR
