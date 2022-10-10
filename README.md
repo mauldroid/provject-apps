@@ -84,3 +84,10 @@
 - [ ] Create Huawei Support :soon:
 
 ## CHANGELOG
+
+*************
+#### **V0.1 - 101022**
+
+- Application uploaded
+- Alpha test started
+*************
