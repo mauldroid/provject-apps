@@ -50,11 +50,17 @@
 *************
 
 *************
-#### :sparkles: **V1.3 - 061022 [LATEST RELEASE]** :sparkles:
+####  **V1.3 - 061022** 
 
 - :new: Add zte tab placeholder
 - Fixed vlan hierarchy
 - Fixed empty vlan fill critical bug
+*************
+
+*************
+#### :sparkles: **V1.3.1 - 111022 [LATEST RELEASE]** :sparkles:
+
+- fixed combobox function
 *************
 
 # 2. INITIAL CPE GENERATOR
