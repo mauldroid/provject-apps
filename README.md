@@ -58,9 +58,17 @@
 *************
 
 *************
-#### :sparkles: **V1.3.1 - 111022 [LATEST RELEASE]** :sparkles:
+####  **V1.3.1 - 111022**
 
-- fixed combobox function
+- Fixed combobox function
+*************
+
+*************
+#### :sparkles: **V2.0 - 201022 [LATEST RELEASE]** :sparkles:
+
+- Add multiple ce vpws cisco
+- Add multiple ce vpws huawei
+- Fixed vlan accepting alphabet
 *************
 
 # 2. INITIAL CPE GENERATOR
